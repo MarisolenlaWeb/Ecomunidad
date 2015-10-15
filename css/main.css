@@ -1,0 +1,178 @@
+header{
+	padding: 15px 0;
+}
+.logo{
+	width: 80%
+}
+nav ul{
+	list-style-type: none;
+	padding-top: 40px;
+	float: right;
+	white-space: nowrap;
+}
+nav li{
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+nav a{
+	text-decoration: none;
+	padding: 0 20px;
+	color: #727f84;
+}
+.bordermenu{
+	border-right: 1px solid #727f84;
+}
+.bg1{
+	background-image: url("../img/semilla.jpg");
+	height: 300px;
+}
+.p1{
+	text-align: center;
+	margin: 60px;
+	padding-left: 100px;
+	padding-right: 50px;
+}
+.centerimg{
+	margin: 60px 220px 0;
+}
+.mgb-60{
+	margin-bottom: 60px;
+}
+.bg2{
+	background-image: url("../img/metodo.jpg"), url("../img/fondo.jpg");
+	background-size: 50%, cover;
+	width: 100%;
+	height: 300px;
+	background-repeat: no-repeat;
+	background-position: left, right;
+}
+.centerimg2{
+	margin: 20px 0 0 270px;
+}
+.p2{
+	padding:0 50px 60px;
+}
+p{
+	color: #727f84;
+}
+.centerimg3{
+	margin: 60px 0 0 130px;
+}
+.pd1{
+	padding: 0 105px;
+}
+.pd2{
+	padding: 0 20px 0 20px;
+}
+.pd3{
+	padding: 0 60px 0 0;
+}
+.pl-15{
+	padding-left: 15%; 
+}
+.bg-green img{
+	width: 98%;
+}
+.pt-25{
+	padding-top: 25%;
+}
+.pd-10{
+	padding: 0 10%;
+}
+.pl-7{
+	padding-left: 7%;
+}
+.pb-13{
+	padding-bottom: 13%;
+}
+.pl-15{
+	padding-left: 15%;
+}
+.pl-20{
+	padding-left: 20%
+}
+.pl-3{
+	padding-left: 3%;
+}
+.mt-3{
+	margin-top: 3%;
+}
+.centerimg4{
+	margin: 0 70px 30px;
+	border-radius: 100%;
+}
+.rssize{
+	width: 10%;
+	margin: 30px 10px 60px;
+}
+.centerrs{
+	margin-left: 135px;
+}
+.bg3{
+	background-image: url("../img/iconos/slider/ecomunidad-15.png"), url("../img/iconos/slider/ecomunidad-16.png");
+	background-size: 3%;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-position: 3% 50%, 97% 50%;
+}
+.slideicon{
+	margin-top: 150px;
+	margin-left: 
+}
+.bg4{
+	background-image: url("../img/fondo2.jpg");
+}
+.blogimg{
+	width: 70%;
+	margin-left: 60px;  
+}
+.bg3 h3, h4, p{
+	padding-right: 15%;
+	margin-left: 60px; 
+}
+.bg4 h2{
+	margin: 60px 0 0 80px;
+}
+.bg5{
+	background-color: #4d4d4d;
+}
+.boxrs{
+	width: 300px;
+	height: 250px;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	display: inline-block;
+	margin-left: 0;
+	border: 1px solid #fff;
+}
+.ml{
+	margin-left: 20px; 
+}
+.sizeicon{
+	width: 40px;
+	margin: 130px 190px 5px;
+}
+.sizeemail{
+	width: 40px;
+	margin: 140px 190px 5px;
+}
+footer a{
+	color: #efc818;
+	text-decoration: none;
+	font-weight: bold;
+}
+.left{
+	float: left;
+	padding: 60px;
+}
+.right{
+	float: right;
+	text-align: right;
+	padding: 60px 20px;
+	white-space: nowrap;
+}
+.border{
+	border: 1px solid black;
+}
